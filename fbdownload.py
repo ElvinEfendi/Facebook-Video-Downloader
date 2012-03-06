@@ -50,4 +50,4 @@ url = url.replace("u00253F","?")
 url = url.replace("u00253D","=")
 url = url.replace("u002526","&")
 
-print 'url='+url
+print 'url=' + url
